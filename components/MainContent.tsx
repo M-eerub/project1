@@ -9,11 +9,11 @@ const MainContent = () => {
       <section className={styles.hero}>
         <div className={styles.heroText}>
           <h1>Welcome to My Portfolio</h1>
-          <p> Detail-oriented and innovative web developer with expertise in
-              HTML, CSS, JavaScript, and front-end frameworks. Seeking to
-              leverage strong problem-solving skills and creativity to build
-              responsive, user-friendly websites and applications. Passionate
-              about learning new technologies and contributing to dynamic teams
+          <p> Detail-oriented and innovative web developer with expertise in <br />
+              HTML, CSS, JavaScript, and front-end frameworks. Seeking to <br />
+              leverage strong problem-solving skills and creativity to build <br />
+              responsive, user-friendly websites and applications. Passionate <br />
+              about learning new technologies and contributing to dynamic teams <br />
               to deliver high-quality digital experiences.</p>
         </div>
       </section>
