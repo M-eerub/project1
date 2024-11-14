@@ -9,7 +9,12 @@ const MainContent = () => {
       <section className={styles.hero}>
         <div className={styles.heroText}>
           <h1>Welcome to My Portfolio</h1>
-          <p>Crafting beautiful, responsive, and performant websites tailored to your needs.</p>
+          <p> Detail-oriented and innovative web developer with expertise in
+              HTML, CSS, JavaScript, and front-end frameworks. Seeking to
+              leverage strong problem-solving skills and creativity to build
+              responsive, user-friendly websites and applications. Passionate
+              about learning new technologies and contributing to dynamic teams
+              to deliver high-quality digital experiences.</p>
         </div>
       </section>
 
@@ -17,8 +22,7 @@ const MainContent = () => {
       <section className={styles.about}>
         <h2>About Me</h2>
         <p>
-          I am a passionate web developer with experience in creating functional and visually appealing
-          websites. My goal is to bring your ideas to life in the digital world with clean, modern designs.
+        I am a Web Developer and Graphic Designer  I enjoy solving complex problems and collaborating with others. I thrive in type of environment, and am always eager to learn and grow. 
         </p>
       </section>
 
