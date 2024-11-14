@@ -7,7 +7,7 @@ const Header: React.FC = () => {
     <header className={styles.header}>
       <div className={styles.container}>
         <h1 className={styles.logo}>
-          <Link href="/">My Portfolio</Link>
+          <Link href="/">Aqsa khan</Link>
         </h1>
 
         {/* Hidden checkbox for mobile menu toggle */}
